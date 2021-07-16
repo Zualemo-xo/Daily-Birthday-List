@@ -1,3 +1,4 @@
-## Idea
+## A birthday List Creator
 
-[https://uidesigndaily.com/](https://uidesigndaily.com/posts/sketch-birthdays-list-card-widget-day-1042)
+Deployment: https://zualemo-xo.github.io/Daily-Birthday-List/
+![image](https://user-images.githubusercontent.com/61049979/126014594-f84774c5-9133-409a-8270-1218b2f6b763.png)
